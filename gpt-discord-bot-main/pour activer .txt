@@ -1,0 +1,2 @@
+cd ~/Saint-FrancoisIA/gpt-discord-bot-main/
+python -m src.main
